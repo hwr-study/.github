@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 研修生のみなさん、はじめまして 👋
+研修で制作した成果物を自由にアップロードしましょう。
 <!--
 
 **Here are some ideas to get you started:**
