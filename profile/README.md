@@ -2,10 +2,10 @@
 
 研修で作成したファイルは成果物としてGitHubに保存しましょう😊
 
-リポジトリ構成
-document - 社内で使用する資料
-personal - 研修中に作成した個人の成果物
-group - 複数人で共同開発したアプリ
+リポジトリ構成  
+document - 社内で使用する資料  
+personal - 研修中に作成した個人の成果物  
+group - 複数人で共同開発したアプリ  
 <!--
 
 **Here are some ideas to get you started:**
